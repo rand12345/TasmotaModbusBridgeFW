@@ -15,10 +15,11 @@ This repository provides the necessary steps to flash and configure Tasmota for 
 Once the firmware is successfully flashed, follow these steps to configure your Tasmota device:
 
 1. **Set Up GPIO Pins**  
-   Proper GPIO setup is crucial for your device to function as a Modbus bridge. Refer to the image below for correct GPIO configuration:  
-   ![GPIO Setup](https://i.ibb.co/PGHG3hZ/image.png)
+   Note config device to function as a Modbus bridge. Refer to the image below for correct GPIO configuration:  
+   ![image](https://github.com/user-attachments/assets/3c34e77a-ae0b-4214-97ac-918c0b1ebb5d)
 
-2. **Configure Tasmota Settings**  
+
+2. **Configure Tasmota Device Settings**  
    Open the web console of your Tasmota device and copy-paste the following commands:
 
    ```shell
